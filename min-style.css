@@ -1,0 +1,6 @@
+@media screen and (max-width:348px) {
+
+.links a:last-child {margin-top:100px;}
+.carousel {margin-top:150px; }
+}
+
